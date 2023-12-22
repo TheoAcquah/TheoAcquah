@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Theophilus B.K. Acquah
+==============================================================================================================================================
 
-<!--
-**TheoAcquah/TheoAcquah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied statistician,(Bio)Statistician, Data Science Enthusiast
+---------------------------------------------------------------
 
-Here are some ideas to get you started:
+Applied statistician,(Bio)Statistician, Mathematician, analyst, data science enthusiast and a doctoral candidate in Applied Statistics with broad research interest in Bayesian Analysis, Clinical Trials, Spatial-temporal Data Analysis, Statistical Modeling, Advanced Simulation Techniques, High Dimensional Data Analysis, Computational Statistics, Multivariate Statistics, Time Series Analysis, Machine Learning Algorithms, longitudinal Data Analysis, Survey Analysis, Public Health, Categorical Data Analysis, and Computational Science. My skills in Predictive Modeling, Data Processing, and Data Mining are complemented by my proficiency in R, Python and SAS. My doctoral research emphasizes spatial-temporal data analysis, statistical modeling, signal-detection and advanced simulation techniques in functional magnetic resonance imaging (fMRI) and neuroimaging, underscoring my commitment to innovating at the intersection of data science and public health
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉️  You can contact me at [tbak16@gmail.com](mailto:tbak16@gmail.com)
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
