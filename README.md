@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Theophilus B.K. Acquah
 ==============================================================================================================================================
 
-Applied statistician,(Bio)Statistician, Data Science Enthusiast
+Applied statistician,(Bio)Statistician, Data Scientist,Research Consultant
 ---------------------------------------------------------------
 
 Applied statistician,(Bio)Statistician, Research Consultant,Mathematician, analyst, data science enthusiast and a doctoral candidate in Applied Statistics with broad research interest in Bayesian Analysis, Clinical Trials, Spatial-temporal Data Analysis, Statistical Modeling, Advanced Simulation Techniques, High Dimensional Data Analysis, Computational Statistics, Multivariate Statistics, Time Series Analysis, Machine Learning Algorithms, longitudinal Data Analysis, Survey Analysis, Public Health, Categorical Data Analysis, and Computational Science. My skills in Predictive Modeling, Data Processing, and Data Mining are complemented by my proficiency in R, Python and SAS. My doctoral research emphasizes spatial-temporal data analysis, statistical modeling, signal-detection and advanced simulation techniques in functional magnetic resonance imaging (fMRI) and neuroimaging, underscoring my commitment to innovating at the intersection of data science and public health
